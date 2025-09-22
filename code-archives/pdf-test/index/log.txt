@@ -1,0 +1,3 @@
+[2025-06-09 15:33:35] ✅ Indexed: 11_pil.11.pdf
+[2025-06-09 15:33:36] ✅ Indexed: 4_pil.4.pdf
+[2025-06-09 15:33:36] [✔️] Finalized: 2 indexed total
